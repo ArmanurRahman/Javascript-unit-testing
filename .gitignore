@@ -1,0 +1,6 @@
+basic-testing-frontend/node_modules
+basic-testing-frontend/package-lock.json
+basic-testing-nodejs/node_modules
+basic-testing-nodejs/package-lock.json
+basic-testing-nodejs-esmodules/node_modules
+basic-testing-nodejs-esmodules/package-lock.json
